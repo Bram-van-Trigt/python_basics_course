@@ -1,7 +1,5 @@
 # Problem Set 2, hangman.py
-# Name:
-# Collaborators:
-# Time spent:
+# Name: Bram van Trigt
 
 # Hangman Game
 # -----------------------------------
