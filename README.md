@@ -8,6 +8,6 @@
 
 #problem set 1 is a compound interest calculator, this is the last part c of assignment.
 
-#problem set 2 is a game of hangman, feel free to try.
+#problem set 2 is a game of hangman, and requires the file words_ps2.txt to run. Feel free to try a game.
 
-#problem set 3 is a word game, feel free to try.
+#problem set 3 is a word game, and requires the file words_ps3.txt to run. Feel free to test it out.
