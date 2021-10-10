@@ -1,17 +1,33 @@
-#MIT6_0001F16_ps1.pdf contains the assignment of problem set 1 (ps1c.py) and gives the requirements for the compound interest calculator.
+During the course Introduction to Computer Science and Programming in Python I have worked on a couple of problem sets.
+In this repository you find my coding solutions for these problem sets.
 
-#MIT6_0001F16_ps2.pdf contains the assignment of problem set 2 and explaines the rules for a game of hangman.
+Problem set 0.5:
+A very small assignment supplied in the first lecture to get familiar with strings, input and print.
 
-#MIT6_0001F16_ps3.pdf contains the assignment of problem set 3 and explaines the rules for the word game.
+Problem set 1:
+Is a compound interest calculator, to calculate required time of saving money for a downpayment on a house.
+This assignments builds gradely in complexity and shows the strength of programming for solving mathematical problems.
+The assingment and requirements for the compound interest calculator can be found in MIT6_0001F16_PSet1.pdf.
 
-#MIT6_0001F16_ps4.pdf contains the assignment of problem set 4 and explaines the required functionality for the message encrypter.
+Problem set 2:
+A game of hangman with hints, and requires the file words_ps2.txt to run. Feel free to try a game.
+How the game works and the hint requirements can be found in MIT6_0001F16_PSet2.pdf
 
-#problem set 0.5 is an assignment to get familiar with strings, input and print supplied in the first lesson as start-up.
+Problem set 3:
+A scrabble based word game, and requires the file words_ps3.txt to run.
+You get a hand of 7 letters and try to make words using this letters. With the remaining letters you can try to make a second word. 
+Points are rewarded based on the letters used and word length.
+All rules and requirments are explained in MIT6_0001F16_PSet3.pdf
 
-#problem set 1 is a compound interest calculator, this is the last part c of assignment.
+Problem set 4:
+This problem set is divided in three aspect and works towards a text encrypter/decrypter.
+Part A is focussed on creating a recursive function to solve the permutation problem.
+Part B is a text encrypter/decrypter using Ceasar cipher.
+Part C is a text encrypter/decrypter using a substitution cipher, part A comes in handy here to crack the subtition cipher used.
+The assignment and it's requirements can be found in MIT6_0001F16_PSet4.pdf 
 
-#problem set 2 is a game of hangman, and requires the file words_ps2.txt to run. Feel free to try a game.
-
-#problem set 3 is a word game, and requires the file words_ps3.txt to run. Feel free to test it out.
-
-#problem set 4 is a text encrypter/decrypter, and requires the file words_ps4.txt to run.
+problem set 5:
+Filter googles RSS newsfeed data on title, description, time and date.
+With this problemset a python program for automated testing was supplied. 
+So every filter method functionality could be tested during programming.
+The requirments can be found in MIT6_0001F16_PSet5.pdf 
